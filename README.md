@@ -1,2 +1,3 @@
-# trouble-shooting
-Record troubleshooting for any problems, errors, mistakes, etc
+# trouble-shooting-references
+
+Record troubleshooting for any problems, errors, mistakes, references, etc
